@@ -1,5 +1,4 @@
-print("Hello world")
-print("THIS IS RANJITA")
-
-print("Hello world",end=" ")
-print("THIS IS RAN")
+print(3+5)
+print(3*4)
+print(8-3)
+print(8/2)
