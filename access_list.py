@@ -1,0 +1,11 @@
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[1])
+print(thislist[-1])
+print(thislist[0:2])
+print(thislist[:2])
+print(thislist[1:])
+print(thislist[-4:-1])
+print(thislist[-4:])
+print(thislist[:])
+print(thislist[-3:])
+print(thislist[2:5])
