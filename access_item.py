@@ -1,22 +1,30 @@
+# # thisdict = {
+# #     "brand": "Ford",
+# #     "model": "Mustang",
+# #     "year": 1964
+# # }
+# # print(thisdict["model"])
+
+# # x = thisdict.get("year")
+# # print(x)
+
+# # a = thisdict.keys()
+# # print(a)
+
+# # car = {
+# #     "brand": "Toyota",  
+# #     "model": "Corolla",
+# #     "year": 2020
+# # }
+# # x = car.keys()
+# # print(x) #before the change
+# # car["color"] = "white"
+# # print(x) #after the change
 # thisdict = {
 #     "brand": "Ford",
-#     "model": "Mustang",
-#     "year": 1964
+#     "electric": False,
+#     "year": 1964,
+#     "colors": ["red", "white", "blue"]
 # }
-# print(thisdict["model"])
-
-# x = thisdict.get("year")
-# print(x)
-
-# a = thisdict.keys()
-# print(a)
-
-car = {
-    "brand": "Toyota",  
-    "model": "Corolla",
-    "year": 2020
-}
-x = car.keys()
-print(x) #before the change
-car["color"] = "white"
-print(x) #after the change
+# if "model" in thisdict:
+#     print("Yes, 'model' is one of the keys in the thisdict dictionary")
