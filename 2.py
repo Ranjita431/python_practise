@@ -6,3 +6,6 @@ print("this is thapa")
 
 print("HEHE")
 print("this is ranjita thapa ")
+
+print("HEHE")
+print("this is ranjitathapa chhetri")
