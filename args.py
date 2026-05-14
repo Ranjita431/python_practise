@@ -10,13 +10,13 @@
     # print("Third argument:", args[2])
      #print("All arguments:", args)
 
-  my_function("apple", "banana", "cherry")
+#  my_function("apple", "banana", "cherry")
 
- def my_function(greeting , *args):
-     print(greeting)
-     for arg in args:
-         print(arg)
- my_function("Hello!" , "apple" , "banana" , "cherry")
+ #def my_function(greeting , *args):
+  #   print(greeting)
+   #  for arg in args:
+    #     print(arg)
+ # my_function("Hello!" , "apple" , "banana" , "cherry")
 
 
 def my_function(*numbers):
