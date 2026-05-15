@@ -1,7 +1,7 @@
 x = 15
 y = 4
 
-print(x + y)  # Addition
+#print(x + y)  # Addition
 print(x - y)  # Subtraction
 
 print(x * y)  # Multiplication
