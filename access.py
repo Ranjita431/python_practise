@@ -1,5 +1,5 @@
  thistuple = ["apple", "banana", "cherry"]
-# mytuple = thistuple.copy()
+ mytuple = thistuple.copy()
 # print(mytuple)
 
 # thistuple = ["apple", "banana", "cherry"]
