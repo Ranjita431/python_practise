@@ -3,7 +3,7 @@
    # "model": "Mustang",
    # "year": 1964
 #}
-print(thisdict["model"])
+#print(thisdict["model"])
 
 x = thisdict.get("year")
 print(x)
