@@ -11,5 +11,5 @@
   #  "electric": False,
   #  "year": 1964,
 #}
-thisdict.update({"color": "red"})
+#thisdict.update({"color": "red"})
 print(thisdict)
