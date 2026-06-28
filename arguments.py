@@ -20,7 +20,7 @@
 #     print("hello " + name)
 # my_functtion("Alice")
 # my_functtion()  # uses default value
-# my_functtion("Bob")
+ my_functtion("Bob")
 
  def my_function(country = "Norway"):
      print("I am from " + country)
