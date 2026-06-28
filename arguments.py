@@ -27,7 +27,7 @@
 # my_function("Sweden")
 # my_function("India")
 # my_function()
-# my_function("Brazil")
+ my_function("Brazil")
 
 def my_function(animal , name):
     print("I have a " + animal + " named " + name)
