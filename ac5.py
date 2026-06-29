@@ -5,7 +5,7 @@ thisdict = {
 }
 print(thisdict["model"])
 
-#x = thisdict.get("year")
+x = thisdict.get("year")
 print(x)
 
 #a = thisdict.keys()
