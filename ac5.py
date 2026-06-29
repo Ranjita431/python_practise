@@ -9,4 +9,4 @@ x = thisdict.get("year")
 print(x)
 
 a = thisdict.keys()
-#print(a)
+print(a)
