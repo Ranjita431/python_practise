@@ -5,4 +5,4 @@
 #arr[0] = 42
 
 #print(arr)
-print(x)
+#print(x)
