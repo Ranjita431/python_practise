@@ -4,5 +4,5 @@
 #x = arr.copy()
 #arr[0] = 42
 
-#print(arr)
+print(arr)
 print(x)
