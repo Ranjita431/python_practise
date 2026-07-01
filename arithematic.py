@@ -9,5 +9,5 @@
 #print(x // y) # Floor Division
 
 #print(x % y)  # Modulus
-print(x ** y) # Exponentiation
+#print(x ** y) # Exponentiation
 #print((x + y) * (x - y))  # Combined Operations
