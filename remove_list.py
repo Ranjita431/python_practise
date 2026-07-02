@@ -1,5 +1,5 @@
 thislist = ["apple", "banana", "cherry"]
-# thislist = ["apple", "banana", "cherry" ,"banana" , "orange"]
+ thislist = ["apple", "banana", "cherry" ,"banana" , "orange"]
  thislist.remove("banana")
 
  thislist.pop()
