@@ -7,5 +7,5 @@ thislist.pop(1)
 
  del thislist[0]
 del thislist
-thislist.clear()
+#thislist.clear()
 #print(thislist)
