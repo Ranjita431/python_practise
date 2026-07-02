@@ -6,6 +6,6 @@ thislist = ["apple", "banana", "cherry"]
 thislist.pop(1)
 
  del thislist[0]
-del thislist
+#del thislist
 #thislist.clear()
 #print(thislist)
