@@ -3,7 +3,7 @@ thislist = ["apple", "banana", "cherry"]
 # thislist.remove("banana")
 
 # thislist.pop()
-# thislist.pop(1)
+thislist.pop(1)
 
  del thislist[0]
 del thislist
