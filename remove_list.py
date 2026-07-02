@@ -8,4 +8,4 @@ thislist.pop(1)
  del thislist[0]
 del thislist
 thislist.clear()
-print(thislist)
+#print(thislist)
