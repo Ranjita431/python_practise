@@ -4,6 +4,6 @@ car = {
     "year": 2020
 }
 #x = car.keys()
-print(x) #before the change
+#print(x) #before the change
 car["color"] = "white"
 print(x) #after the change
