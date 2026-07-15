@@ -8,7 +8,7 @@
 #p1 = Person("Emil")
 #p1.greet()
 
-class Calculator:
+#class Calculator:
   def add(self, a, b):
     return a + b
 
