@@ -9,7 +9,7 @@
 #p1.greet()
 
 #class Calculator:
-  def add(self, a, b):
+ # def add(self, a, b):
     return a + b
 
   def multiply(self, a, b):
