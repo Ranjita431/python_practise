@@ -6,7 +6,7 @@
   #  print("Hello, my name is " + self.name)
 
 #p1 = Person("Emil")
-p1.greet()
+#p1.greet()
 
 class Calculator:
   def add(self, a, b):
