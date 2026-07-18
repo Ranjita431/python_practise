@@ -4,7 +4,7 @@
   #  self.__age = age # Private property
 
 p1 = Person("Emil", 25)
-print(p1.name)
+#print(p1.name)
 
 
 
