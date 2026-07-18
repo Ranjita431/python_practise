@@ -17,7 +17,7 @@
  # def get_age(self):
    # return self.__age
 
-p1 = Person("Tobias", 25)
+#p1 = Person("Tobias", 25)
 print(p1.get_age())
 
 
