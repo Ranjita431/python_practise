@@ -3,7 +3,7 @@
   #  self.name = name
   #  self.__age = age # Private property
 
-p1 = Person("Emil", 25)
+#p1 = Person("Emil", 25)
 #print(p1.name)
 
 
