@@ -6,7 +6,7 @@
 #p1 = Person("Emil", 36)
 
 #print(p1.name)
-print(p1.age)
+#print(p1.age)
 
 
 class Car:
