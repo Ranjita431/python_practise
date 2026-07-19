@@ -3,7 +3,7 @@
 #    self.name = name
   #  self.age = age
 
-p1 = Person("Emil", 36)
+#p1 = Person("Emil", 36)
 
 print(p1.name)
 print(p1.age)
