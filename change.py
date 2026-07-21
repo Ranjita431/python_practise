@@ -9,7 +9,7 @@
 #thisdict = {
  #   "brand": "Ford",
   #  "electric": False,
-    "year": 1964,
+ #   "year": 1964,
 } 
 thisdict.update({"year": 2020})
 print(thisdict)
