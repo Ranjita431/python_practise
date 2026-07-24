@@ -11,7 +11,7 @@
   #  if self.__validate(num):
     #  self.result += num
   #  else:
-      print("Invalid number")
+   #   print("Invalid number")
 
 calc = Calculator()
 calc.add(10)
