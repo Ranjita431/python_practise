@@ -10,7 +10,7 @@
  # def add(self, num):
   #  if self.__validate(num):
     #  self.result += num
-    else:
+  #  else:
       print("Invalid number")
 
 calc = Calculator()
