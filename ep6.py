@@ -2,7 +2,7 @@
  # def __init__(self):
   #  self.result = 0
 
-  def __validate(self, num):
+#  def __validate(self, num):
     if not isinstance(num, (int, float)):
       return False
     return True
