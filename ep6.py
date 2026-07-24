@@ -16,4 +16,4 @@
 #calc = Calculator()
 #calc.add(10)
 calc.add(5)
-print(calc.result)
+#print(calc.result)
