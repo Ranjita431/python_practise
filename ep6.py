@@ -5,7 +5,7 @@
 #  def __validate(self, num):
 #    if not isinstance(num, (int, float)):
   #    return False
-    return True
+ #   return True
 
   def add(self, num):
     if self.__validate(num):
