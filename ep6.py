@@ -7,7 +7,7 @@
   #    return False
  #   return True
 
-  def add(self, num):
+ # def add(self, num):
     if self.__validate(num):
       self.result += num
     else:
