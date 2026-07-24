@@ -8,7 +8,7 @@
  #   return True
 
  # def add(self, num):
-    if self.__validate(num):
+  #  if self.__validate(num):
       self.result += num
     else:
       print("Invalid number")
