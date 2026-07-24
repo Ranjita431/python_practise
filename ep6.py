@@ -3,7 +3,7 @@
   #  self.result = 0
 
 #  def __validate(self, num):
-    if not isinstance(num, (int, float)):
+#    if not isinstance(num, (int, float)):
       return False
     return True
 
